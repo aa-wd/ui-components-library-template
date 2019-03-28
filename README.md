@@ -1,6 +1,6 @@
 # Typescript/React/Storybook/Jest template
 
-Template for creating UI components library to be published on [npm](https://www.npmjs.com/). Only `package.json` and the built `dist` directory are published on npm through `.npmignore`. Typescript declarations are included in `dist`.
+Template for creating UI components library to be published on [npm](https://www.npmjs.com/). Only `dist` directory is published on npm through the files property of `package.json`. Typescript declarations are included in `dist`.
 
 
 ## Usage
