@@ -1,4 +1,14 @@
 src
+.storybook
+stories
+
 .npmignore
 .gitignore
 tsconfig.json
+postcss.config.js
+.editorconfig
+babel.config.js
+jest.config.js
+setupTests.js
+*.tgz
+*.css
