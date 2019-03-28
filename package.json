@@ -1,6 +1,6 @@
 {
-  "name": "@aawd/xxxxxxx",
-  "version": "1.0.0",
+  "name": "@aawd/example",
+  "version": "1.0.10",
   "author": "Ahmed Abbas",
   "description": "Template and tools for UI component library with typescript, react, storybook and jest.",
   "license": "MIT",
@@ -18,6 +18,9 @@
     "test": "jest --watch",
     "test:once": "jest"
   },
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@storybook/addon-actions": "^5.0.5",
