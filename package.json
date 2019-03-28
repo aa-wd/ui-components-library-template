@@ -1,0 +1,19 @@
+{
+  "name": "@aawd/comptest",
+  "version": "1.0.0",
+  "author": "AA",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.8.10",
+    "rimraf": "^2.6.3",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "react": "^16.8.5"
+  }
+}
