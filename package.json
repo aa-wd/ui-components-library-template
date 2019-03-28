@@ -1,9 +1,13 @@
 {
-  "name": "@aawd/comptest",
-  "version": "1.0.7",
+  "name": "@aawd/xxxxxxx",
+  "version": "1.0.0",
   "author": "Ahmed Abbas",
-  "description": "Template UI component library",
-  "license": "ISC",
+  "description": "Template and tools for UI component library with typescript, react, storybook and jest.",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/aa-wd/ui-components-library-template.git"
+  },
   "main": "dist/index.js",
   "scripts": {
     "build:css": "postcss --verbose src/css.css --output styles/css.css",
